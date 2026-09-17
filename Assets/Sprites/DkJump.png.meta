@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4f8ada2b084356245a2e0c0d73ef6bd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5662393910537228037
+    second: DkJump_0
+  - first:
+      213: -1385915841065827792
+    second: DkJump_1
+  - first:
+      213: -8301492227088092502
+    second: DkJump_2
+  - first:
+      213: -1127010034303233649
+    second: DkJump_3
+  - first:
+      213: 327481242237667675
+    second: DkJump_4
+  - first:
+      213: -2031583515455037123
+    second: DkJump_5
+  - first:
+      213: -1228597816314269792
+    second: DkJump_6
+  - first:
+      213: 1652145386567365611
+    second: DkJump_7
+  - first:
+      213: -2073430267218418978
+    second: DkJump_8
+  - first:
+      213: 1130673785027906161
+    second: DkJump_9
+  - first:
+      213: 1244631614325059430
+    second: DkJump_10
+  - first:
+      213: -6580988661424328645
+    second: DkJump_11
+  - first:
+      213: 1293829228656030122
+    second: DkJump_12
+  - first:
+      213: -6283980189732208033
+    second: DkJump_13
+  - first:
+      213: 6348550785048592017
+    second: DkJump_14
+  - first:
+      213: 2209144229800144299
+    second: DkJump_15
+  - first:
+      213: -929015959058736801
+    second: DkJump_16
+  - first:
+      213: -7151448786554981811
+    second: DkJump_17
+  - first:
+      213: 4829311625515736777
+    second: DkJump_18
+  - first:
+      213: 444898597374039559
+    second: DkJump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DkJump_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f08efc24dd49e40800000000000000
+      internalID: 5662393910537228037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 17
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324faca2ec34cce0800000000000000
+      internalID: -1385915841065827792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 16
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa27fba7dcc2bcc80800000000000000
+      internalID: -8301492227088092502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 15
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f811e0f485e0c50f0800000000000000
+      internalID: -1127010034303233649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b590e2a64727b8400800000000000000
+      internalID: 327481242237667675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 13
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3163c57e8d5ec3e0800000000000000
+      internalID: -2031583515455037123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 16
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af64c2abc423fee0800000000000000
+      internalID: -1228597816314269792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 16
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f5a3c9799de610800000000000000
+      internalID: 1652145386567365611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 15
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed227ef4822b933e0800000000000000
+      internalID: -2073430267218418978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 16
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a4f6121d5f0bf00800000000000000
+      internalID: 1130673785027906161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 10
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe010ebd1d54110800000000000000
+      internalID: 1244631614325059430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 8
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30fde41ea1aba4a0800000000000000
+      internalID: -6580988661424328645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 5
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa17f0614da94f110800000000000000
+      internalID: 1293829228656030122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 3
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f528b67bf41dac8a0800000000000000
+      internalID: -6283980189732208033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_14
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 3
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e395d8d459a1850800000000000000
+      internalID: 6348550785048592017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 6
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad67d2f8f478ae10800000000000000
+      internalID: 2209144229800144299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_16
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 14
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5992a948e87b13f0800000000000000
+      internalID: -929015959058736801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_17
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 10
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42fdf7f733f0cc90800000000000000
+      internalID: -7151448786554981811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 14
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce978c2659250340800000000000000
+      internalID: 4829311625515736777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkJump_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 18
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7069c89cae89c2600800000000000000
+      internalID: 444898597374039559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DkJump_0: 5662393910537228037
+      DkJump_1: -1385915841065827792
+      DkJump_10: 1244631614325059430
+      DkJump_11: -6580988661424328645
+      DkJump_12: 1293829228656030122
+      DkJump_13: -6283980189732208033
+      DkJump_14: 6348550785048592017
+      DkJump_15: 2209144229800144299
+      DkJump_16: -929015959058736801
+      DkJump_17: -7151448786554981811
+      DkJump_18: 4829311625515736777
+      DkJump_19: 444898597374039559
+      DkJump_2: -8301492227088092502
+      DkJump_3: -1127010034303233649
+      DkJump_4: 327481242237667675
+      DkJump_5: -2031583515455037123
+      DkJump_6: -1228597816314269792
+      DkJump_7: 1652145386567365611
+      DkJump_8: -2073430267218418978
+      DkJump_9: 1130673785027906161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

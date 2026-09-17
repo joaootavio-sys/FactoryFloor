@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: d28568f73670aef4187d578019887014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1989686242741623673
+    second: DkIDLE_0
+  - first:
+      213: -4131592514297100209
+    second: DkIDLE_1
+  - first:
+      213: 5329768997103771765
+    second: DkIDLE_2
+  - first:
+      213: -2479011563982655431
+    second: DkIDLE_3
+  - first:
+      213: 6465723581565611570
+    second: DkIDLE_4
+  - first:
+      213: 1595610136611697057
+    second: DkIDLE_5
+  - first:
+      213: -8391141836430801370
+    second: DkIDLE_6
+  - first:
+      213: 1673654716353897461
+    second: DkIDLE_7
+  - first:
+      213: 2113146017095604326
+    second: DkIDLE_8
+  - first:
+      213: 5750915954101516953
+    second: DkIDLE_9
+  - first:
+      213: 870798696961286842
+    second: DkIDLE_10
+  - first:
+      213: -1562544167429853336
+    second: DkIDLE_11
+  - first:
+      213: 6184936940222943761
+    second: DkIDLE_12
+  - first:
+      213: 8494143655724808532
+    second: DkIDLE_13
+  - first:
+      213: 2685874044642637236
+    second: DkIDLE_14
+  - first:
+      213: -2826001670405453766
+    second: DkIDLE_15
+  - first:
+      213: 5522976754756715788
+    second: DkIDLE_16
+  - first:
+      213: 3640892561635538597
+    second: DkIDLE_17
+  - first:
+      213: 545594648538249528
+    second: DkIDLE_18
+  - first:
+      213: 6581423402766766389
+    second: DkIDLE_19
+  - first:
+      213: -7207506448210932861
+    second: DkIDLE_20
+  - first:
+      213: -8321118460493605757
+    second: DkIDLE_21
+  - first:
+      213: -3801956416297428659
+    second: DkIDLE_22
+  - first:
+      213: 4331078222955173713
+    second: DkIDLE_23
+  - first:
+      213: 476808237366369014
+    second: DkIDLE_24
+  - first:
+      213: -1300538837452318258
+    second: DkIDLE_25
+  - first:
+      213: -8812566839607355884
+    second: DkIDLE_26
+  - first:
+      213: 6451262127609822555
+    second: DkIDLE_27
+  - first:
+      213: 2893023074096268843
+    second: DkIDLE_28
+  - first:
+      213: -7434814240191084649
+    second: DkIDLE_29
+  - first:
+      213: 2143738439508197088
+    second: DkIDLE_30
+  - first:
+      213: -7177949699918870833
+    second: DkIDLE_31
+  - first:
+      213: 6567394425094281639
+    second: DkIDLE_32
+  - first:
+      213: -5762235196965666031
+    second: DkIDLE_33
+  - first:
+      213: -7900386039572522122
+    second: DkIDLE_34
+  - first:
+      213: 4346296292790812382
+    second: DkIDLE_35
+  - first:
+      213: -1997033953640936061
+    second: DkIDLE_36
+  - first:
+      213: -6305385813634678873
+    second: DkIDLE_37
+  - first:
+      213: -745527172325839322
+    second: DkIDLE_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DkIDLE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b98119819cc9b10800000000000000
+      internalID: 1989686242741623673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 49
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4888a49f72a9a6c0800000000000000
+      internalID: -4131592514297100209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 49
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570a24f1aa427f940800000000000000
+      internalID: 5329768997103771765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9307abeed18c89dd0800000000000000
+      internalID: -2479011563982655431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 49
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ea51f275ddab950800000000000000
+      internalID: 6465723581565611570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 49
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b0c027feb42610800000000000000
+      internalID: 1595610136611697057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 49
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268f9b35fcac8b80800000000000000
+      internalID: -8391141836430801370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 49
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f36eecd8140a3710800000000000000
+      internalID: 1673654716353897461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668d38b4b17635d10800000000000000
+      internalID: 2113146017095604326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 49
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af851379b5fcf40800000000000000
+      internalID: 5750915954101516953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 49
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2204b1dc2b51c00800000000000000
+      internalID: 870798696961286842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 50
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2c72cb5ab05ae0800000000000000
+      internalID: -1562544167429853336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 49
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1121e20c06f45d550800000000000000
+      internalID: 6184936940222943761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 49
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4597d96a6a241e570800000000000000
+      internalID: 8494143655724808532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 49
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5bd569634264520800000000000000
+      internalID: 2685874044642637236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_15
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 49
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3882dc147608c8d0800000000000000
+      internalID: -2826001670405453766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 49
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058302b81e85ac40800000000000000
+      internalID: 5522976754756715788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 49
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6f5a99e7c078230800000000000000
+      internalID: 3640892561635538597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 48
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839f9713177529700800000000000000
+      internalID: 545594648538249528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 48
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311b5607b9e55b50800000000000000
+      internalID: 6581423402766766389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_20
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 49
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bcc06821bc9fb90800000000000000
+      internalID: -7207506448210932861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 49
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384555ce8d2758c80800000000000000
+      internalID: -8321118460493605757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49131378ccbc3bc0800000000000000
+      internalID: -3801956416297428659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1575cad52b41b1c30800000000000000
+      internalID: 4331078222955173713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad33ec096fd9600800000000000000
+      internalID: 476808237366369014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec91e0161de83fde0800000000000000
+      internalID: -1300538837452318258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41611dd762973b580800000000000000
+      internalID: -8812566839607355884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d3d1d89bc778950800000000000000
+      internalID: 6451262127609822555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2644827825162820800000000000000
+      internalID: 2893023074096268843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797056207db32d890800000000000000
+      internalID: -7434814240191084649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee7c32b0c610cd10800000000000000
+      internalID: 2143738439508197088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6c6b047ccc26c90800000000000000
+      internalID: -7177949699918870833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a910af1f62142b50800000000000000
+      internalID: 6567394425094281639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113cb943e9d6800b0800000000000000
+      internalID: -5762235196965666031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b13da41c03c5290800000000000000
+      internalID: -7900386039572522122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_35
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb46c5375215c30800000000000000
+      internalID: 4346296292790812382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_36
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d86dc233c1944e0800000000000000
+      internalID: -1997033953640936061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af74868205ce78a0800000000000000
+      internalID: -6305385813634678873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DkIDLE_38
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eed1b9cfa57a5f0800000000000000
+      internalID: -745527172325839322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DkIDLE_0: 1989686242741623673
+      DkIDLE_1: -4131592514297100209
+      DkIDLE_10: 870798696961286842
+      DkIDLE_11: -1562544167429853336
+      DkIDLE_12: 6184936940222943761
+      DkIDLE_13: 8494143655724808532
+      DkIDLE_14: 2685874044642637236
+      DkIDLE_15: -2826001670405453766
+      DkIDLE_16: 5522976754756715788
+      DkIDLE_17: 3640892561635538597
+      DkIDLE_18: 545594648538249528
+      DkIDLE_19: 6581423402766766389
+      DkIDLE_2: 5329768997103771765
+      DkIDLE_20: -7207506448210932861
+      DkIDLE_21: -8321118460493605757
+      DkIDLE_22: -3801956416297428659
+      DkIDLE_23: 4331078222955173713
+      DkIDLE_24: 476808237366369014
+      DkIDLE_25: -1300538837452318258
+      DkIDLE_26: -8812566839607355884
+      DkIDLE_27: 6451262127609822555
+      DkIDLE_28: 2893023074096268843
+      DkIDLE_29: -7434814240191084649
+      DkIDLE_3: -2479011563982655431
+      DkIDLE_30: 2143738439508197088
+      DkIDLE_31: -7177949699918870833
+      DkIDLE_32: 6567394425094281639
+      DkIDLE_33: -5762235196965666031
+      DkIDLE_34: -7900386039572522122
+      DkIDLE_35: 4346296292790812382
+      DkIDLE_36: -1997033953640936061
+      DkIDLE_37: -6305385813634678873
+      DkIDLE_38: -745527172325839322
+      DkIDLE_4: 6465723581565611570
+      DkIDLE_5: 1595610136611697057
+      DkIDLE_6: -8391141836430801370
+      DkIDLE_7: 1673654716353897461
+      DkIDLE_8: 2113146017095604326
+      DkIDLE_9: 5750915954101516953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
