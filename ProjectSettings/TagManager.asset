@@ -2,9 +2,8 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
-  tags:
-  - Dano
+  serializedVersion: 2
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -42,20 +41,3 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: background
-    uniqueID: 2618436473
-    locked: 0
-  - name: background_prop
-    uniqueID: 1492265347
-    locked: 0
-  - name: plataform
-    uniqueID: 64165573
-    locked: 0
-  - name: player
-    uniqueID: 307847841
-    locked: 0
-  - name: foreground
-    uniqueID: 3611701823
-    locked: 0
-  m_RenderingLayers:
-  - Default
